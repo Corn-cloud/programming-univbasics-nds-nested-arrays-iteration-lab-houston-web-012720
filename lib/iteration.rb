@@ -37,6 +37,7 @@ while i < src.count do
     total += (src[i][0] + src[i][0])
   end
   i += 1 
+  total 
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
   # if both numbers in the pair are even, then add both those numbers to the
   # total
